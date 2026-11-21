@@ -5,7 +5,7 @@ import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDw07sGsNqqEwAV2coG3w96c7avWvdHG7g",
+    apiKey: "",
     authDomain: "real-time-chatapp-1b943.firebaseapp.com",
     projectId: "real-time-chatapp-1b943",
     storageBucket: "real-time-chatapp-1b943.firebasestorage.app",
